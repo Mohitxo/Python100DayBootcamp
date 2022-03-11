@@ -2,9 +2,13 @@
 This repository contain Python100DayBootcamp course codes 
 
 100 Days of Code: The Complete Python Pro Bootcamp for 2022
-SYLLABUS
-B E G I N N E R    PYTHON
-Variables in Python
+SYLLABUS   
+
+
+B E G I N N E R    PYTHON 
+
+
+Variables in Python 
 String Manipulation
 Input and Print Functions
 Variable Naming Rules
@@ -30,6 +34,8 @@ Scope and Local/Global Variables
 Debugging Techniques
 
 I N T E R M E D I A T E  PYTHON
+
+
 Local Development Environment Setup
 PyCharm Tips and Tricks
 Python Object Oriented Programming
@@ -64,6 +70,8 @@ Working with date and time
 Hosting Python Code Online with PythonAnywhere
 
 I N T E R M E D I A T E +
+
+
 APIs
 Making HTTP Requests with the Requests module
 Sending Parameters with the Request
@@ -82,6 +90,8 @@ Templating with Jinja 2
 WTForms
 
 A D V A N C E D P Y T H O N
+
+
 Build Your Own REST API with Python
 Build Your Own Blog
 Databases with SQLite
